@@ -16,7 +16,7 @@ import { AngularFirestoreModule } from '@angular/fire/firestore';
 
 import { IonicStorageModule } from '@ionic/storage';
 import { AuthGuardService } from './services/auth-guard.service'
-import { AuthenticationService } from './services/Authentication.service'
+import { AuthenticationService } from './services/authentication.service'
 
 @NgModule({
   declarations: [AppComponent],
